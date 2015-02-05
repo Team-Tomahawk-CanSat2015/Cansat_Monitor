@@ -157,7 +157,7 @@ function checker ( hObject, eventdata, handles, run, ard)
               set(handles.Status, 'BackgroundColor', 'green'); 
               else
               set(handles.Status, 'BackgroundColor', 'red');
-              end                          
+              end                           
 function DisConnect_Callback(hObject, eventdata, handles)
 global runner; global timesincelaunch;
 timesincelaunch = 1;
