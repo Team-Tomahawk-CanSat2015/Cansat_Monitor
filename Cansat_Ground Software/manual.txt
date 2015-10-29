@@ -1,0 +1,10 @@
+1  Altitude.
+2  Outside Temperature.
+3  Inside Temperature.
+4  Voltage.
+5  Flight state.
+6  Xrotate.
+7  Yrotate.
+8  Zrotate.
+9  Heading
+10 //00
